@@ -2,6 +2,8 @@
 
 I build custom software and automation — mobile apps, web platforms, APIs — that helps professional-services firms streamline operations, deliver better for clients, and see measurable ROI in the first 90 days.
 
+**Fixed-price. Milestone-based. No hourly billing.**
+
 ## What I build
 
 - **Mobile apps** — custom-built around how your firm actually works
